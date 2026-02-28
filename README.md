@@ -4,12 +4,12 @@ Interactive workspace builder for `monis.rent` where users can configure a desk 
 
 ## Live Demo
 
-- Vercel URL: `TBD`
+- Vercel URL: [http://monis-rent-psi.vercel.app/](http://monis-rent-psi.vercel.app/)
 
 ## GitHub Repo
 
-- Repository URL: `TBD`
-- Collaborator added: `desent-bot` (Read access)
+- Repository URL: [https://github.com/ahmadmaha02/-monis-rent](https://github.com/ahmadmaha02/-monis-rent)
+- Collaborator added: `desent-bot`
 
 ## Approach
 
